@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: TawbahApi-backend
+    runtime: dotnet
+    repo: https://github.com/bouiali/AltawbahApi
+    branch: main
+    buildCommand: dotnet build
+    startCommand: dotnet TawbahApi.dll
+    buildFilter: "TawbahApi.csproj"
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
