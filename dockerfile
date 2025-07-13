@@ -28,4 +28,4 @@ COPY --from=build /app/publish .
 EXPOSE 10000
 
 # أمر التشغيل
-ENTRYPOINT ["dotnet", "MyApi.dll"]
+ENTRYPOINT ["dotnet", "TawbahApi.dll"]
