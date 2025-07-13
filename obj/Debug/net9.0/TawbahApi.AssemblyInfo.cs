@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TawbahApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69193fbd77403e33c0b0e52f0f6faf4f1b9da7a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TawbahApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TawbahApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
